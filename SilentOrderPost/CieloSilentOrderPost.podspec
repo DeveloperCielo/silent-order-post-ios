@@ -32,6 +32,6 @@ Pod::Spec.new do |spec|
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
-  spec.source_files  = "SilentOrderPost", "SilentOrderPost/*.{h,swift}"
+  spec.source_files  = "SilentOrderPost/*.{h,swift}"
 
 end
