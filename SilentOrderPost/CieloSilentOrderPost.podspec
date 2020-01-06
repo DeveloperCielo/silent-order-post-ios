@@ -24,11 +24,11 @@ Pod::Spec.new do |spec|
 
   # ――― Author Metadata  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   spec.author       = { "Jeferson F. Nazario" => "jefnazario@gmail.com" }
-  s.social_media_url   = "http://twitter.com/jefnazario"
+  spec.social_media_url   = "http://twitter.com/jefnazario"
 
   # ――― Source Location ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   spec.source       = { :git => "https://github.com/DeveloperCielo/silent-order-post-ios.git", :tag => "#{spec.version}" }
-  s.ios.deployment_target = '10.0'
+  spec.ios.deployment_target = '10.0'
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
