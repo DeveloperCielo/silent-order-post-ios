@@ -68,7 +68,7 @@ Para utilizar o SDK, é necessário incluir a biblioteca ***SilentOrderPost.fram
 Para utilizar o Silent Order Post SDK no seu projeto usando CocoaPods, adicione no `Podfile` do seu projeto o seguinte código:
 
 ```ruby
-pod 'CieloSilentOrderPost', '~> 1.0.0'
+pod 'CieloSilentOrderPost'
 ```
 
 Após adicionar o Silent Order Post no `Podfile`, basta abrir o terminal na pasta do seu projeto e executar o comando: `pod install`.
