@@ -80,7 +80,7 @@ Feito isso, podemos proseguir com um exemplo de utilização.
 3.1 Importação
 
 ```swift
-import SilentOrderPost
+import CieloSilentOrderPost
 ```
 
 3.2 - Instanciando o sdk
